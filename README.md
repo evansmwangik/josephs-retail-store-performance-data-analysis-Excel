@@ -35,20 +35,25 @@ I go ahead and create a dashboard showing the general performance in terms of th
 After this I proceed to data analysis using pivot tables and also using excel formulas.
 
 ### Data Analysis
-- I use pivot tables tp establish the following:
-    - Total Revenue, Total Unit Cost and Total Profit over the 
-    ![alt text](assest/image.png)
+- I use pivot tables to establish the following:
+    - Total Revenue, Total Unit Cost and Total Profit over the years
     - Total units sold, distinct stores and distinct product categories
-    ![alt text](assets/image6.png)
+      
+    ![alt text](assets/image.png)
     #### Advanced
-    - Profit per Store,
+    - Profit per Store
+      
     ![alt text](assets/image2.png)
     - Profit per Product Category
+      
     ![alt text](assets/image3.png)
     - Profit by Month, Profit by Day
+      
     ![alt text](assets/image4.png)
+  
     ![alt text](assets/image5.png)
     - Revenue vs Product Cost, Quarterly every Year
+      
     ![alt text](assets/image7.png)
 
 I then proceed to create a dashboard using the above pivot table analysed data.
@@ -58,6 +63,7 @@ I then proceed to create a dashboard using the above pivot table analysed data.
 - I use bar charts, line charts and cards to visualize the data.
 
 Below is a photo of the dashboard:
+
 ![alt text](assets/dashboard.png)
 
 ### Insights Gathered
