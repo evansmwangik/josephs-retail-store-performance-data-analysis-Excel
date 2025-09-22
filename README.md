@@ -1,4 +1,3 @@
-# retail-store-performance-data-analysis-Excel
 Excel Project
 
 # Company Sales Analysis and Dashboard Creation
