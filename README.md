@@ -34,7 +34,7 @@ I go ahead and create a dashboard showing the general performance in terms of th
 
 After this I proceed to data analysis using pivot tables and also using excel formulas.
 
-### Dashboard Analysis
+### Data Analysis
 - I use pivot tables tp establish the following:
     - Total Revenue, Total Unit Cost and Total Profit over the 
     ![alt text](assest/image.png)
