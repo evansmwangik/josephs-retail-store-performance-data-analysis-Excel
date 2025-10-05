@@ -85,6 +85,9 @@ Below is a screenshot of the dashboard:
 2. Even with the regular discounts on products, the total revenue has consistently stayed above the product cost of production in all quarters.
 3. The leading store, by profit, is the store in the West in all the years combined.
 4. The leading product category, by profit, is Electronics in all the years combined.
-5. High product count, generally, does not equal high profit as seen when comparing year 2023 vs 2022 for the mentioned metrics.
+5. High product sales count, generally, does not equal high profit as seen when comparing year 2024 vs 2023 for the mentioned metrics.
+   - Year 2024 led in sales by item count, over the 3 year period, but still did not beat year 2023 in terms of revenue and profit. This could have been due to factors such as:
+       - More Likely: Lesser sales in the product categories that generate high revenue and ultimately high profit; the leading item category in terms of profit in the year 2023 is Electronics and 2024's leading product category is Sports, which ranks as number 4 in the year 2023. 
+       - Less Likely: More discounts could have been given across all the categories, or even in some categories, in the year 2024 than in the year 2023 which could have caused drop in revenue and profit in the year 2024.
 
 More insights can be found in the dashboard included in the `Retail Analytics - Dash.xlsx` file.
