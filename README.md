@@ -39,21 +39,36 @@ After this I proceed to data analysis using pivot tables and excel formulas.
     - Total units sold, distinct stores and distinct product categories
       
     ![alt text](assets/image.png)
+
+    ![alt text](assets/image6.png)
+    - Metrics captured as in the image below:
+    
+    ![alt text](assets/image8.png)
     #### Advanced
     - Profit per Store
       
     ![alt text](assets/image2.png)
+
+    ![alt text](assets/image9.png)
     - Profit per Product Category
       
     ![alt text](assets/image3.png)
+
+    ![alt text](assets/image10.png)
     - Profit by Month, Profit by Day
       
     ![alt text](assets/image4.png)
+
+    ![alt text](assets/image11.png)
   
     ![alt text](assets/image5.png)
+
+    ![alt text](assets/image12.png)
     - Revenue vs Product Cost, Quarterly every Year
       
     ![alt text](assets/image7.png)
+
+    ![alt text](assets/image13.png)
 
 I then proceed to create a dashboard using the above pivot table analysed data.
 
@@ -70,5 +85,6 @@ Below is a screenshot of the dashboard:
 2. Even with the regular discounts on products, the total revenue has consistently stayed above the product cost of production in all quarters.
 3. The leading store, by profit, is the store in the West in all the years combined.
 4. The leading product category, by profit, is Electronics in all the years combined.
+5. High product count, generally, does not equal high profit as seen when comparing year 2023 vs 2022 for the mentioned metrics.
 
 More insights can be found in the dashboard included in the `Retail Analytics - Dash.xlsx` file.
